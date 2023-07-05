@@ -1,0 +1,52 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.carousel-item {
+    height: 85vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.bg-success-claro{
+    background-color: #61a333;
+}
+.div-img{
+    display: block;
+    width: 150px;
+    margin-left: -90px;
+}
+
+#map {
+    height: 400px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#map2 {
+    height: 400px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div-img2{
+    display: block;
+    height: 250px;
+    width: 300px;
+}
+
+.bg-success-claro2{
+    background-color: #aaeb7c;
+}
+.div-img3{
+    display: block;
+    height: 350px;
+    width: 300px;
+    margin-right: 60px;
+}
